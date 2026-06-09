@@ -45,7 +45,8 @@ flowchart TD
 
 
 ```
-Bold Line : Train set workflow
+Bold Line : Train set workflow 
+
 Dashed line : Test set workflow
 
 

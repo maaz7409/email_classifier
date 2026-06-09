@@ -10,7 +10,7 @@ Below is flowchart of the full pipeline
 
 
 flowchart TD
-    A[("Dataset (Raw)")] -->|<small> easy & hard ham, spam </small>| B1[Stratified Splitting] 
+    A[("Dataset (Raw)")] -->|easy ham, hard ham, spam| B1[Stratified Splitting] 
 
     A --> B2[(Dictionary)]
 
